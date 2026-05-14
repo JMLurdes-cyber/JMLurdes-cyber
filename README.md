@@ -1,5 +1,4 @@
-<div style="background-color: #1a1a2e; color: #00ff41 padding: 20px; border-radius: 10px;">
-
+<div style="background-color: #1a1a2e; padding: 20px; border-radius: 10px; color: #00ff41;">
 ## Hi there 👋I am Julio
 
 I'm Julio, an aspiring cybersecurity professional based in Sweden.
