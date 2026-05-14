@@ -16,6 +16,9 @@ I'm Julio, an aspiring cybersecurity professional based in Sweden.
 - Wireshark
 - Splunk
 
+### Certifications
+- ComptiA Network+
+
 ### Current Work
 - Building networking configuration and labs
 - Building network monitoring and labs
