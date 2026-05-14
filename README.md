@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi there 👋I am Julio
+
+I'm Julio, an aspiring cybersecurity professional based in Sweden.
+
+My main tech is py
 
 <!--
-**JMLurdes-cyber/JMLurdes-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
