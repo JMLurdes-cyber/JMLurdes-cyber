@@ -1,4 +1,4 @@
-<div style="background-color":#9d7ea5; padding: 20px; border-radius: 10px >
+<div style="background-color":#1a1a2e; padding: 20px; border-radius: 10px >
 
 ## Hi there 👋I am Julio
 
