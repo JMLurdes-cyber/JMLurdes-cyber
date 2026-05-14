@@ -1,3 +1,5 @@
+<div style="background-color":"blue">
+
 ## Hi there 👋I am Julio
 
 I'm Julio, an aspiring cybersecurity professional based in Sweden.
@@ -16,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
